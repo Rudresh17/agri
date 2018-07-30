@@ -1,0 +1,192 @@
+<resources>
+  <string name="app_name">AP</string>
+  <string name="action_settings">सेटिंग्स</string>
+  <!--  <string name="FACEBOOK_APP_ID">379285672567997</string>-->
+  <string name="ACCOUNT_KIT_CLIENT_TOKEN">8650209f0d8218241c83bb888a0f69e5</string>
+  <string name="google_API_key">AIzaSyCDhhmIjTaZnwdS-gWfSku6AlBhhZwVL9Q</string>
+
+  <!--  Custom strings-->
+  <string name="action_bar_title_hello">Hello</string>
+  <string name="ak_login_protocol_scheme">ak379285672567997</string>
+  <string name="app_id">379285672567997</string>
+  <string name="client_token">845624f4a452db3b0f193a48432eaf8f</string>
+  <string name="permissions_get_accounts_message">
+        Grant permission to read your email address from your device to pre-fill.
+    </string>
+  <string name="permissions_get_accounts_title">Read Email Address</string>
+  <string name="permissions_read_phone_state_message">
+        Grant permission to read your phone number from your device to pre-fill.
+    </string>
+  <string name="permissions_read_phone_state_title">Read Phone Number</string>
+  <string name="permissions_receive_sms_message">
+        Grant permission to read your SMS code from your device to pre-fill.
+    </string>
+  <string name="permissions_receive_sms_title">Read SMS Code</string>
+  <string name="log_in_email_button">Log In via Email</string>
+  <string name="log_in_phone_button">Log In via Phone</string>
+  <string name="log_out_button">लोग आउट</string>
+  <string name="error_label">त्रुटि</string>
+  <string name="loading_placeholder">Loading&#8230;</string>
+  <string name="user_id_label">Account ID</string>
+  <string name="hello">नमस्ते</string>
+  <string name="phone_number_label">फ़ोन नंबर</string>
+  <string name="email_label">ईमेल</string>
+  <string name="na">NA</string>
+  <string name="title_activity_castart">CAStartActivity</string>
+  <!--  <string name="custom_text">Vikrant Shroti\nAkshay Balaji</string>-->
+  <string name="custom_text">Farmer\'s Associate in their journey to prosperity</string>
+  <string name="select_commodity">Select commodity</string>
+  <string name="select_variety">Select Variety</string>
+  <string name="price_range">1000 – 3000</string>
+  <string name="welcome">स्वागत है</string>
+  <string name="hint_name">नाम</string>
+  <string name="hint_mobile_no">मोबाइल नंबर</string>
+  <string name="hint_password">पासवर्ड</string>
+  <string name="login">लॉग इन करें</string>
+  <string name="sign_up">साइन अप करें</string>
+  <string name="not_a_member">अभी तक सदस्य नहीं है?</string>
+  <string name="logout">लोग आउट</string>
+  <string name="terms_conditions">नियम और शर्तें</string>
+  <string name="profile">प्रोफाइल देखिये</string>
+  <string name="father_name">Father\'s Name</string>
+  <string name="hint_address">पता</string>
+  <string name="dob">जन्म की तारीख</string>
+  <string name="identity">लाइसेंस संख्या/ पैन कार्ड संख्या / मतदाता आईडी</string>
+  <string name="enter_details">विवरण दर्ज करें</string>
+  <string name="enter">दर्ज</string>
+  <string name="invite_user">उपयोगकर्ता को आमंत्रित करें</string>
+  <string name="request_code">ऑपरेशन उपयोगकर्ता कोड का अनुरोध करें</string>
+  <string name="colon">:</string>
+  <string name="status">स्थिति</string>
+  <string name="enter_message">संदेश दर्ज करें</string>
+
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="title_activity_login">साइन इन करें</string>
+  <string name="title_activity_main2">Main2Activity</string>
+  <string name="section_format">Hello World from section: %1$d</string>
+  <string name="truck_registration_no">ट्रक पंजीकरण संख्या दर्ज करें</string>
+  <string name="all_india_permit">अखिल भारतीय परमिट दर्ज करें</string>
+  <string name="max_load">ट्रक अधिकतम भार</string>
+  <string name="truck_height">ट्रक की ऊंचाई</string>
+  <string name="truck_length">ट्रक की लंबाई</string>
+  <string name="truck_width">ट्रक की चौड़ाई</string>
+  <string name="company_name">कंपनी का नाम दर्ज करें</string>
+  <string name="company_registration_no">कंपनी का नाम दर्ज करें</string>
+  <string name="company_address">कंपनी का पता दर्ज करें</string>
+  <string name="company_contact">कंपनी संपर्क दर्ज करें</string>
+  <string name="hint_optional_mobile">मोबाइल दर्ज करें</string>
+  <string name="time_reached">समय पहुंचा</string>
+  <string name="shipment_details">शिपमेंट की जानकारी</string>
+  <string name="add_profile">प्रोफाइल जोड़ें</string>
+  <string name="switch_to_english">अंग्रेज़ी पर स्विच करें</string>
+  <string name="switch_to_hindi">हिंदी पर स्विच करें</string>
+  <string name="switch_language">भाषा स्विच करें</string>
+  <string name="my_progress">मेरी प्रगति</string>
+  <string name="contact_us">हमसे संपर्क करें</string>
+  <string name="reset_password">पासवर्ड रिसेट करें</string>
+  <string name="start_trade">व्यापार शुरू करो</string>
+  <string name="check_pricing">मूल्य निर्धारण की जांच करें</string>
+  <string name="how_to_make_profit_video">लाभ कैसे बनाएं (वीडियो)</string>
+  <string name="how_to_make_profit">लाभ कैसे बनाएँ</string>
+
+  <string name="contact_us_detail">" हम आपको सबसे अच्छे तरीके से मदद करने के लिए यहां हैं.\n7415259296 पर हमसे संपर्क करें या एक संदेश ड्रॉप करें.\nहम आपसे संपर्क करेंगे."</string>
+  <string name="send_message">मेसेज भेजें</string>
+  <string name="dismiss">खारिज</string>
+  <string name="select_commodity_detail">वस्तु का चयन करें :</string>
+  <string name="select_ca_detail"> सीए का चयन करें :</string>
+  <string name="select_trucker_detail">ट्रकर का चयन करें :</string>
+  <string name="start_location_detail">स्थान शुरू हो रहा है</string>
+  <string name="transaction_details_detail">माल का विवरण</string>
+  <string name="consignment_weight_detail">माल का वजन</string>
+  <string name="enter_msp"> एमएसपी दर्ज करें</string>
+  <string name="maximum_days_wait_detail"> अधिकतम दिन प्रतीक्षा</string>
+  <string name="submit_detail">जमा करें</string>
+  <string name="select_state">राज्य चुनें :</string>
+  <string name="select_district">जिला का चयन करें :</string>
+  <string name="select_mandi">मंडी का चयन करें :</string>
+  <string name="select_commodity_name">फसल नाम का चयन करें :</string>
+  <string name="select_commodity_variety">फसल विविधता का चुनाव करें :</string>
+  <string name="show_consignments">माल की स्थिति दिखाएं</string>
+  <string name="farmer_companion">किसान सहायक</string>
+  <string name="communicate_with_us">हमारे साथ संवाद करें</string>
+  <string name="view_notifications">नोटिफिकेशन देखें</string>
+  <string name="update_commodity_prices">कमोडिटी कीमतों को अपडेट करें</string>
+  <string name="commodity_list">कमोडिटी सूची</string>
+  <string name="list_of_mandi">मंडी की सूची</string>
+  <string name="commission_agents">आयोग एजेंट</string>
+  <string name="ware_houses">गोदाम</string>
+  <string name="ware_houses_list">गोदामों की सूची</string>
+  <string name="weather">मौसम</string>
+
+  <string name="make_profit_video">लाभ बनाएं (वीडियो)</string>
+  <string name="make_profit">लाभ बनाएँ</string>
+  <string name="subscriptions">सदस्यता</string>
+  <string name="subscription_id">Subscription Id : </string>
+  <string name="subscription_price">सदस्यता मूल्य : </string>
+  <string name="subscription_validity">सदस्यता वैद्यता : </string>
+  <string name="subscription_name">सदस्यता नाम : </string>
+  <string name="subscription_inaugral_offer">सदस्यता उद्घाटन प्रस्ताव : </string>
+  <string name="subscription_inaugral_offer_price">सदस्यता उद्घाटन प्रस्ताव मूल्य : </string>
+  <string name="subscription_applicable_for_waver">सदस्यता applicable for waver : </string>
+  <string name="hindi"><u>हिंदी</u></string>
+  <string name="english"><u>English</u></string>
+  <string name="marathi"><u>मराठी</u></string>
+  <string name="kannada"><u>ಕನ್ನಡ</u></string>
+  <string name="select_language">भाषा चुनिए</string>
+  <string name="select">चुनते हैं</string>
+  <string name="change_language"><u>भाषा बदलें</u></string>
+  <string name="crop_diseases">फसल रोग</string>
+  <string name="pesticides">कीटनाशक</string>
+  <string name="packers_and_movers">पैकर्स और मोवेर्स</string>
+  <string-array name="select_language">
+    <item>भाषा बदलें</item>
+    <item>English</item>
+    <item>हिंदी</item>
+  </string-array>
+  <string name="please_wait">कृपया प्रतीक्षा करें...</string>
+  <string name="no_record_found">कोई रिकॉर्ड नहीं मिला</string>
+  <string name="sendInvite">आमंत्रण भेजें</string>
+  <string name="chat"><u>चैट करें</u></string>
+  <string name="farmers_list">किसानों की सूची</string>
+  <string name="initiated">भेज दिया</string>
+  <string name="in_progress">प्रगति पर</string>
+  <string name="completed">पूर्ण</string>
+  <string name="received">प्राप्त किया</string>
+  <string name="list_of_pesticides">कीटनाशक सूची</string>
+  <string name="enter_commodity_name">Enter Commodity Name</string>
+  <string name="crop_diseases_and_pesticides">फसल रोग और कीटनाशक</string>
+  <string name="agriiprince">Agriiprince</string>
+  <string name="i_am">मैं हूँ एक :</string>
+
+  <string name="crop_diseases_and_pesticides_english">Pesticides and Crop diseases</string>
+  <string name="packers_and_movers_english">Packers and Movers</string>
+  <string name="ware_houses_english">Warehouse</string>
+  <string name="commission_agents_english">Commission Agents</string>
+  <string name="weather_english">Weather</string>
+  <string name="check_pricing_english">Check Pricing</string>
+  <string name="chat_menu">बातचीत</string>
+  <string name="subscription_alert_message">आपने किसी भी पैकेज की सदस्यता नहीं ली है. हमारी सेवा का निर्बाध रूप से उपयोग करने के लिए कृपया सदस्यता लें\nक्या आप सदस्यता प्रस्ताव की जांच करना चाहते हैं?"</string>
+  <string name="yes">हाँ</string>
+  <string name="later">बाद में</string>
+  <string name="hint_confirm_password">कन्फर्म पासवर्ड</string>
+  <string name="login_with_otp"><u>ऑटीप से लॉगिन करें</u></string>
+  <string name="login_with_password"><u>पासवर्ड से लॉगिन करें</u></string>
+  <string name="enter_new_password">नया पासवर्ड डालें</string>
+  <string name="submit">बदलें</string>
+  <string name="change_password_question">क्या आप पासवर्ड चेंज करना चाहते हैं.?</string>
+  <string name="current_password">वर्तमान पासवर्ड</string>
+  <string name="enter_current_password">वर्तमान पासवर्ड बताएँ</string>
+  <string name="save">बचाना</string>
+  <string name="cancel">रद्द करना</string>
+  <string name="day_prices_across_india">भारत भर में दिन की कीमतें</string>
+  <string name="historical_prices_in_mandi">मंडी में ऐतिहासिक कीमतें</string>
+  <string name="predicted_pricing">अनुमानित मूल्य निर्धारण</string>
+  <string name="select_pricing_for">मूल्य निर्धारण के लिए चयन करें :</string>
+  <string name="warning_not_subscribed">आपने इस सुविधा की सदस्यता नहीं ली है</string>
+  <string-array name="select_variety_spinner">
+    <item>Select variety</item>
+  </string-array>
+  <string-array name="select_grade_spinner">
+    <item>Select grade</item>
+  </string-array>
+</resources>
